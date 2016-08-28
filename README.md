@@ -5,3 +5,6 @@ My first android programm -chess. Two players play one after another. Accessible
 Для того, чтобы походить фигуру сначала нужно выбрать нажатием.
 Используется база данных sqlite
 файл .apk находится в корне 
+
+#Sreenshots
+<hr>
