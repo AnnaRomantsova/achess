@@ -1,12 +1,13 @@
 ﻿# achess 
 My first android programm - chess. Two players play one after another. Accessible fields are colored for selected figure. Sqlite database is used in programm.
 
-Шахматы на андроид, играют 2 игрока, ходят по очереди, для каждой фигуры подсвечиваются клеточки куда она может ходить.
+Моя первая прорграмма под андроид. Шахматы на андроид, играют 2 игрока, ходят по очереди, для каждой фигуры подсвечиваются клеточки куда она может ходить.
 Для того, чтобы походить фигуру сначала нужно выбрать нажатием.
 Используется база данных sqlite
 файл .apk находится в корне 
 <h2>Features</h2>
 <ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">Android 4</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">SQLite database</li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="" disabled="">Java</li>
 </ul>
